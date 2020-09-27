@@ -1,4 +1,8 @@
-# Event-Sentiment-Analysis
+# Political Event-Sentiment-Analysis
+
+A web application that gives you latest political news and provides sentiment of people using Quora and Twitter data for a particular political party.
+
+It also provides analysis based on region in India in order to help parties to target a particular region for their campaigns. 
 
 ## Screenshots
 
@@ -19,10 +23,6 @@
 ### Tweet bot
 ![screenshot from 2019-02-11 01-23-52](https://user-images.githubusercontent.com/29770201/52538723-eb28a100-2d9b-11e9-947e-b5ee4584fcf7.png)
 ![screenshot from 2019-02-11 01-24-07](https://user-images.githubusercontent.com/29770201/52538724-eb28a100-2d9b-11e9-96bc-c9b5a56cc21d.png)
-
-
-
-`This was built at a hackathon within 7 hours with minimal pre-preparation`
 
 
 ## Contributors
